@@ -1,17 +1,13 @@
 <!-- Look for these tags for where to make changes -->
 
 # 📌 Project Name <!-- Project Name here -->
+Wordle
 
 ## 📝 Overview
-<!-- A brief description of the project. Explain what it does, its purpose, and its key features. -->
-
-## 🎯 Learning Objectives
-<!--
-- List the programming concepts or technologies covered in this project.
-- Example: Loops, Functions, API calls, Object-Oriented Programming, etc.
--->
+This is a recreation of the game Wordle. Type your guesses into the terminal and the display will show your guess and the hint.
 
 ## 🛠️ Technologies Used
+- Pygame
 <!--
 - Programming Language(s): Python, JavaScript, etc.
 - Frameworks/Libraries: React, Flask, etc.
